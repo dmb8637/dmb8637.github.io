@@ -1,3 +1,6 @@
 <charset="utf-8">
-
-<iframe src="anketa_D_A_Bokov.docx" width=200 height=500></p>
+<p>
+<a href="anketa_D_A_Bokov.docx" target='_blank' 
+title="Нажмите здесь, чтобы открыть документ Word">
+Нажмите здесь, чтобы открыть документ Word</a>
+  </p>
