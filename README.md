@@ -1,6 +1,10 @@
-<charset="utf-8">
-<p>
-<a href="anketa_D_A_Bokov.docx" target='_blank' 
-title="Нажмите здесь, чтобы открыть документ Word">
-Нажмите здесь, чтобы открыть документ Word</a>
-  </p>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title>Сайт-резюме</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<p><iframe src="anketa_D_A_Bokov.htm" width=200 height=500></p>
+</body>
+</html>
