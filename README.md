@@ -12,6 +12,8 @@
 
 <img src="1_MG_3769.jpg">
 
+<iframe src="АНКЕТА-резюме (1).doc" width=200 height=500>
+
 </body>
 
 </html>
