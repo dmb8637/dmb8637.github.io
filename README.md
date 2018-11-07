@@ -1,18 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <meta charset="utf-8">
-    <title>What are HTML imports and how do they work</title>
+    <title>Сайт-резюме</title>
     <link rel="import" href="/anketa_D_A_Bokov.htm">
   </head>
   <body>
     <h1>Сайт-резюме</h1>
- 
-    <script>
-      var link = document.querySelector('link[rel=import]');
-      var content = link.import.querySelector('#anketa_D_A_Bokov-dm');
-      document.body.appendChild(content.cloneNode(true));
-    </script>
- 
-  </body>
+    <div id="wrapper">
+    	<div class="content">
+	        <p class="big">tpverstak</p>
+	        <p>This page created on Github</p>
+        </div>
+    </div>
+</body>
 </html>
