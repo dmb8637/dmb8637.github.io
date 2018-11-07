@@ -1,16 +1,16 @@
 <?php
-$mailto = "domobaza@ya.ru";
-$charset = "windows-1251";
+$mailto = "dmb8637@mail.ru";
+$charset = "UTF-8";
 $subject = $_POST['posRegard'];
 $content = "text/plain";
 $message = $_POST['posText'];
 $statusError = "";
 $statusSuccess = "";
-$errors_name = 'Ââåäèòå âàøå èìÿ';
-$errors_mailfrom = 'Ââåäèòå ñâîé E-mail àäðåñ';
-$errors_incorrect = 'Çàïîëíèòå ïðàâèëüíî Âàø E-mail àäðåñ';
-$errors_message = 'Íàáåðèòå òåêñò âàøåãî ñîîáùåíèÿ';
-$errors_subject = 'Ââåäèòå òåìó ñîîáùåíèÿ';
-$captcha_error = 'Ïðîâåðüòå ïðàâèëüíîñòü ââîäà çàùèòíîãî êîäà';
-$send = 'Âàøå ñîîáùåíèå óñïåøíî îòïðàâëåíî';
+$errors_name = 'Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð²Ð°ÑˆÐµ Ð¸Ð¼Ñ';
+$errors_mailfrom = 'Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑÐ²Ð¾Ð¹ E-mail Ð°Ð´Ñ€ÐµÑ';
+$errors_incorrect = 'Ð—Ð°Ð¿Ð¾Ð»Ð½Ð¸Ñ‚Ðµ Ð¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½Ð¾ Ð’Ð°Ñˆ E-mail Ð°Ð´Ñ€ÐµÑ';
+$errors_message = 'ÐÐ°Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ñ‚ÐµÐºÑÑ‚ Ð²Ð°ÑˆÐµÐ³Ð¾ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ';
+$errors_subject = 'Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ‚ÐµÐ¼Ñƒ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ';
+$captcha_error = 'ÐŸÑ€Ð¾Ð²ÐµÑ€ÑŒÑ‚Ðµ Ð¿Ñ€Ð°Ð²Ð¸Ð»ÑŒÐ½Ð¾ÑÑ‚ÑŒ Ð²Ð²Ð¾Ð´Ð° Ð·Ð°Ñ‰Ð¸Ñ‚Ð½Ð¾Ð³Ð¾ ÐºÐ¾Ð´Ð°';
+$send = 'Ð’Ð°ÑˆÐµ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ ÑƒÑÐ¿ÐµÑˆÐ½Ð¾ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¾';
 ?>
