@@ -4,8 +4,6 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<title>Сайт-резюме</title>
-
 </head>
 
 <body>
