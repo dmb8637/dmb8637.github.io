@@ -6,6 +6,6 @@
     <link rel="import" href="/anketa_D_A_Bokov.html">
   </head>
   <body>
-    <h1>Hello from Designmodo</h1>
+    <h1>Сайт-резюме</h1>
   </body>
 </html>
